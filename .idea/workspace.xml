@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d62d0306-2176-4a1c-b272-15ea7de4dad3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PHPmaster/testCourier.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PHPmaster/Courier.php" afterPath="$PROJECT_DIR$/PHPmaster/Courier.php" />
     </list>
     <ignored path="PHP-OOD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -294,15 +292,23 @@
       <workItem from="1478854697652" duration="1599000" />
       <workItem from="1478858170718" duration="4708000" />
       <workItem from="1479130461410" duration="13442000" />
-      <workItem from="1479200447805" duration="1244000" />
+      <workItem from="1479200447805" duration="1368000" />
     </task>
+    <task id="LOCAL-00001" summary="PHP namespaces classes objects public private protected">
+      <created>1479206697333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479206697333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28578000" />
+    <option name="totallyTimeSpent" value="28702000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1616" height="916" extended-state="0" />
+    <frame x="1912" y="-8" width="1616" height="916" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13946016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -355,6 +361,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PHP namespaces classes objects public private protected" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP namespaces classes objects public private protected" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
